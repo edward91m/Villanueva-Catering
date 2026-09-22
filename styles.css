@@ -328,7 +328,7 @@ textarea { min-height: 120px; resize: vertical; }
   .g-wide { grid-column: span 1; }
 }
 .logo img {
-  height: 42px;
+  height: 82px;
   width: auto;
   display: block;
 }
