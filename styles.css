@@ -327,3 +327,8 @@ textarea { min-height: 120px; resize: vertical; }
 @media (max-width: 560px) {
   .g-wide { grid-column: span 1; }
 }
+.logo img {
+  height: 42px;
+  width: auto;
+  display: block;
+}
